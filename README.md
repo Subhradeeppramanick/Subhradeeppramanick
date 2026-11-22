@@ -17,7 +17,7 @@ I'm an Indian Army-trained IT graduate with a master's in communication, explori
 ## 💼 My roles & experience
 
 <p>
-<img src="assets/role-army.svg?v=2" alt="Indian Army : Startegic Communication" width="364" />
+<img src="assets/role-army.svg?v=2" alt="Indian Army : Strategic Communication" width="364" />
 <img src="assets/role-simpsoft.svg?v=2" alt="Simpsoft: trainee Software Engineer(SSE-0) " width="359" />
 <img src="assets/role-nss.svg" alt="NSS: Cultural coordinator" width="274" />
 <img src="assets/role-policy.svg" alt="Public policy: Team lead" width="253" />
