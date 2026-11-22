@@ -16,10 +16,12 @@ I'm an IT graduate exploring the space between technology, communication and des
 
 ## 💼 My roles & experience
 
+<p>
 <img src="assets/role-army.svg" alt="Army internships: Communication" width="313" />
 <img src="assets/role-simpsoft.svg" alt="Simpsoft: Former trainee" width="251" />
 <img src="assets/role-nss.svg" alt="NSS: Cultural coordinator" width="274" />
 <img src="assets/role-policy.svg" alt="Public policy: Team lead" width="253" />
+</p>
 
 My background includes product/UI/UX work and a trainee software role at Simpsoft Solutions, alongside experience in sales, business development and community activities.
 
@@ -27,17 +29,21 @@ My background includes product/UI/UX work and a trainee software role at Simpsof
 
 ### 💻 Portfolio technologies
 
+<p>
 <img src="assets/tech-python.svg" alt="Python" width="120" />
 <img src="assets/tech-html5.svg" alt="HTML" width="111" />
 <img src="assets/tech-css.svg" alt="CSS" width="101" />
 <img src="assets/tech-javascript.svg" alt="JavaScript" width="151" />
+</p>
 
 Used in the projects shown here, not a claim of advanced proficiency.
 
 ### 🎨 Design & media tools
 
+<p>
 <img src="assets/tech-figma.svg" alt="Figma" width="117" />
 <img src="assets/tech-canva.svg" alt="Canva" width="120" />
+</p>
 
 Also: video editing and content writing.
 
