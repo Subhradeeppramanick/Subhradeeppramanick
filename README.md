@@ -25,6 +25,18 @@ I'm an Indian Army-trained IT graduate with a master's in communication, explori
 
 My background includes product/UI/UX work and a trainee software role(SSE-0)  at Simpsoft Solutions, alongside experience in sales, business development and community activities.
 
+## 🏅 Achievements
+
+<p>
+<img src="assets/award-citation-card.svg" alt="Achievement: Citation of Performance and Conduct, awarded by GS IW, MG GS, HQ Eastern Command, Indian Army" width="650" />
+</p>
+<p>
+<img src="assets/award-territorial-card.svg" alt="Achievement: Certificate of Appreciation for exemplary performance, awarded by the Director General, Territorial Army, IHQ of MoD Army" width="650" />
+</p>
+<p>
+<img src="assets/award-felicitation-card.svg" alt="Achievement: Public recognition 2019. Felicitated by the then MLA and current Chief Minister of West Bengal for scribe assistance to visually impaired students at secondary level" width="650" />
+</p>
+
 ## 🛠️ My toolkit
 
 ### 💻 Portfolio technologies
