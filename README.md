@@ -30,10 +30,10 @@ My background includes product/UI/UX work and a trainee software role(SSE-0)  at
 ### 💻 Portfolio technologies
 
 <p>
-<img src="assets/tech-python.svg" alt="Python" width="120" />
-<img src="assets/tech-html5.svg" alt="HTML" width="111" />
-<img src="assets/tech-css.svg" alt="CSS" width="101" />
-<img src="assets/tech-javascript.svg" alt="JavaScript" width="151" />
+<img src="assets/tech-python.svg?v=2" alt="Python" width="120" />
+<img src="assets/tech-html5.svg?v=2" alt="HTML" width="111" />
+<img src="assets/tech-css.svg?v=2" alt="CSS" width="101" />
+<img src="assets/tech-javascript.svg?v=2" alt="JavaScript" width="151" />
 </p>
 
 Used in the projects shown here, not a claim of advanced proficiency.
@@ -41,8 +41,8 @@ Used in the projects shown here, not a claim of advanced proficiency.
 ### 🎨 Design & media tools
 
 <p>
-<img src="assets/tech-figma.svg" alt="Figma" width="117" />
-<img src="assets/tech-canva.svg" alt="Canva" width="120" />
+<img src="assets/tech-figma.svg?v=2" alt="Figma" width="117" />
+<img src="assets/tech-canva.svg?v=2" alt="Canva" width="120" />
 </p>
 
 Also: video editing and content writing.
