@@ -4,26 +4,26 @@
 
 # Hi, I'm Subhradeep 👋
 
-I'm an IT graduate exploring the space between technology, communication and design. I enjoy turning ideas into clear digital experiences, from UI/UX concepts to small web projects.
+I'm an Indian Army-trained IT graduate with a master's in communication, exploring the space between technology, communication, and design. I enjoy turning ideas into clear digital experiences, from UI/UX concepts to small web projects.
 
 ## 🧭 About me
 
 - 🎓 B.E. in Information Technology, University Institute of Technology, The University of Burdwan.
 - 📚 Pursuing an M.A. in Journalism and Mass Communication at IGNOU.
-- 📝 Experience in strategic communication and public information through Indian Army internships.
+- 📝 Experience in strategic communication and public information through Indian Army.
 - 🏅 Grand finalist, Creators Challenge at Indian Army Terrier Cyber Quest 2026.
 - 🌱 Learning Python, JavaScript, documentation and testing through hands-on projects.
 
 ## 💼 My roles & experience
 
 <p>
-<img src="assets/role-army.svg" alt="Army internships: Communication" width="313" />
-<img src="assets/role-simpsoft.svg" alt="Simpsoft: Former trainee" width="251" />
+<img src="assets/role-army.svg" alt="Indian Army : Startegic Communication" width="313" />
+<img src="assets/role-simpsoft.svg" alt="Simpsoft: trainee Software Engineer(SSE-0) " width="251" />
 <img src="assets/role-nss.svg" alt="NSS: Cultural coordinator" width="274" />
 <img src="assets/role-policy.svg" alt="Public policy: Team lead" width="253" />
 </p>
 
-My background includes product/UI/UX work and a trainee software role at Simpsoft Solutions, alongside experience in sales, business development and community activities.
+My background includes product/UI/UX work and a trainee software role(SSE-0)  at Simpsoft Solutions, alongside experience in sales, business development and community activities.
 
 ## 🛠️ My toolkit
 
