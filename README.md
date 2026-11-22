@@ -39,7 +39,7 @@ My background includes product/UI/UX work and a trainee software role(SSE-0)  at
 
 ## 🛠️ My toolkit
 
-### 💻 Portfolio technologies
+### 💻  technologies
 
 <p>
 <img src="assets/tech-python.svg?v=2" alt="Python" width="120" />
@@ -59,11 +59,11 @@ My background includes product/UI/UX work and a trainee software role(SSE-0)  at
 
 Also: video editing and content writing.
 
-### 🌱 Currently learning
+### ))Currently learning
 
 Python · JavaScript · Clear documentation · Tests
 
-## 🚀 Featured projects
+##  ))Featured projects
 
 ### [CyberDesk](https://github.com/Subhradeeppramanick/cyberdesk)
 
@@ -97,7 +97,7 @@ A UI/UX design project for a Kolkata-based car-rental application.
 <img src="https://komarev.com/ghpvc/?username=Subhradeeppramanick&color=ffcc00&style=flat-square" alt="Profile views counter provided by Komarev" />
 </p>
 
-*Free third-party counter. Counts page hits, not unique visitors.*
+
 
 ---
 
