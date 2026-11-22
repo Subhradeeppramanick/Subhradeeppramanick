@@ -91,7 +91,7 @@ A UI/UX design project for a Kolkata-based car-rental application.
 
 *Based on GitHub's language-byte data across my public repositories. Only CyberDesk reports recognized language bytes in this snapshot; the other three report none. This card is a dated snapshot, not a live statistic.*
 
-## 👁️ Profile views
+## 👁️ 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Subhradeeppramanick&color=ffcc00&style=flat-square" alt="Profile views counter provided by Komarev" />
