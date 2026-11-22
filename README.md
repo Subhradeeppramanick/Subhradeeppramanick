@@ -36,7 +36,7 @@ My background includes product/UI/UX work and a trainee software role(SSE-0)  at
 <img src="assets/tech-javascript.svg?v=2" alt="JavaScript" width="151" />
 </p>
 
-Used in the projects shown here, not a claim of advanced proficiency.
+
 
 ### 🎨 Design & media tools
 
