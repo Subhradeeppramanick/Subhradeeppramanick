@@ -17,8 +17,8 @@ I'm an Indian Army-trained IT graduate with a master's in communication, explori
 ## 💼 My roles & experience
 
 <p>
-<img src="assets/role-army.svg" alt="Indian Army : Startegic Communication" width="313" />
-<img src="assets/role-simpsoft.svg" alt="Simpsoft: trainee Software Engineer(SSE-0) " width="251" />
+<img src="assets/role-army.svg" alt="Indian Army : Startegic Communication" width="364" />
+<img src="assets/role-simpsoft.svg" alt="Simpsoft: trainee Software Engineer(SSE-0) " width="359" />
 <img src="assets/role-nss.svg" alt="NSS: Cultural coordinator" width="274" />
 <img src="assets/role-policy.svg" alt="Public policy: Team lead" width="253" />
 </p>
@@ -95,3 +95,4 @@ A UI/UX design project for a Kolkata-based car-rental application.
 <p align="center">
 <img src="assets/profile-footer.svg" alt="Programming in the Service of the nation. Jai Hind 🇮🇳" width="100%" />
 </p>
+
